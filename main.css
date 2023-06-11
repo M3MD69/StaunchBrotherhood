@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria&display=swap');
+
+:root {
+    background-color: #161D29;
+}
+
+* {
+    font-family: 'Alexandria', sans-serif;
+    scroll-behavior: smooth;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    margin: 1rem;
+    line-height: 2rem;
+    color: #FFFFFF;
+    background-color: var(background-color);
+}
+
+img {
+    width: 25rem;
+    border: 5px solid #FFFFFF;
+    border-radius: 1rem 50rem;
+    padding: 1rem;
+}
+
+h1{
+    line-height: 3.5rem;
+}
+
+table,
+hr {
+    margin: auto;
+}
+
+hr {
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+    border: 1.5px solid #FFFFFF;
+}
+
+td {
+    margin: auto;
+    padding: 0.5rem;
+    border: 2.5px solid #FFFFFF;
+}
+
+/* ol,
+li {
+    text-align: start;
+    list-style-type: disc;
+} */
