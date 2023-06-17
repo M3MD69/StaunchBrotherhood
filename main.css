@@ -13,10 +13,11 @@
     justify-content: center;
     justify-items: center;
     align-items: center;
-    margin: 1rem;
+    margin: 1%;
     line-height: 2rem;
     color: #FFFFFF;
     background-color: var(--primaryColor);
+    transition: all 0.3s ease-in-out;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -66,15 +67,14 @@ button {
     background-color: var(--secondaryColor);
     border: 0.2rem solid var(--secondaryColor);
     color: var(--primaryColor);
-    padding: 0.9rem 1.9rem;
+    padding: 8px 16px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     font-weight: bold;
     cursor: pointer;
     border-radius: 1rem;
-    transition: all 0.3s ease-in-out;
 }
 
 button:hover {
