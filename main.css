@@ -64,9 +64,9 @@ td {
 
 button {
     background-color: var(--secondaryColor);
-    border: 0.1rem solid var(--secondaryColor);
+    border: 0.2rem solid var(--secondaryColor);
     color: var(--primaryColor);
-    padding: 1rem 2rem;
+    padding: 0.9rem 1.9rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
